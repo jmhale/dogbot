@@ -10,5 +10,6 @@
   "hubot-shipit",
   "hubot-reload-scripts",
   "hubot-doggerisms",
-  "hubot-slack-api"
+  "hubot-slack-api",
+  "hubot-doggy-daycare"
 ]
