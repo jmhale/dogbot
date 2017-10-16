@@ -9,5 +9,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-reload-scripts",
-  "hubot-doggerisms"
+  "hubot-doggerisms",
+  "hubot-slack-api"
 ]
